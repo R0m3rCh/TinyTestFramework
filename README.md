@@ -1,6 +1,6 @@
 # TinyTestFramework
 
-This just an small project that can be used to test the functionality of the [CoffeeTest](https://github.com/R0m3rCh/CoffeeTest/tree/refactor/testcafe-adapter) VSCode extension.
+This is just an small project that can be used to test the functionality of the [CoffeeTest](https://github.com/R0m3rCh/CoffeeTest/tree/refactor/testcafe-adapter) VSCode extension.
 
 ## Instructions
 - Clone the repository.
